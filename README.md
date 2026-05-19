@@ -29,7 +29,6 @@ To prepare for my final year, I spent my summer break engineering an open-source
 ## Academic Background
 
 * **Institution:** Mehran University of Engineering and Technology (MUET), Jamshoro.
-* **Current Standing:** Entering 7th Semester | Cumulative GPA: **3.16 / 4.0**.
 * **Upcoming Final Year Project (FYP):** *Radiation-Hardened, High-Speed FPGA Data Acquisition System for Cosmic Ray Muon Detection*.
 * **Research Aspirations:** I am actively seeking graduate-level positions and fully funded research internships (such as the KAUST VSPR program) focusing on hardware safety, fault-tolerant edge SoCs, and resilient hardware accelerators.
 
